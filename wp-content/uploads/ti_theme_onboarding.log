@@ -1,0 +1,15 @@
+[26/Sep/2023:07:14:21] (I): WordPress Instance Info:
+[26/Sep/2023:07:14:21] (I): Home URL : http://localhost/WP
+[26/Sep/2023:07:14:21] (I): Site URL : http://localhost/WP
+[26/Sep/2023:07:14:21] (I): WordPress Version : 6.3.1
+[26/Sep/2023:07:14:21] (I): Onboarding Version : 1.2.1
+[26/Sep/2023:07:14:21] (I): Multisite : No
+[26/Sep/2023:07:14:21] (I): Server Info : Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6
+[26/Sep/2023:07:14:21] (I): PHP Version : 8.1.6
+[26/Sep/2023:07:14:21] (I): HTTPS : No
+[26/Sep/2023:07:14:21] (I): PHP Max Execution Time : 120
+[26/Sep/2023:07:14:21] (I): PHP Max Input Vars : 1000
+[26/Sep/2023:07:14:21] (I): Max Upload Size : 41943040
+[26/Sep/2023:07:14:21] (I): Plugins:
+[26/Sep/2023:07:14:21] (I): [PLUGIN] Elementor : v3.16.4 (Elementor.com)
+[26/Sep/2023:07:14:21] (I): [PLUGIN] Templates Patterns Collection : v1.2.1 (ThemeIsle)
